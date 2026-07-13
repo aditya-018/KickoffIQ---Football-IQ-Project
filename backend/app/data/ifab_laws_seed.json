@@ -1,0 +1,82 @@
+[
+  {
+    "id": "law-11-offside-position",
+    "law": "Law 11",
+    "title": "Offside position",
+    "url": "https://www.theifab.com/laws/latest/offside/",
+    "scenario_type": "offside",
+    "text": "A player is in an offside position if any playable part of the head, body or feet is in the opponents' half and nearer to the opponents' goal line than both the ball and the second-last opponent. Being level with the second-last opponent or the last two opponents is not an offside position. The hands and arms are not considered."
+  },
+  {
+    "id": "law-11-offside-offence",
+    "law": "Law 11",
+    "title": "Offside offence",
+    "url": "https://www.theifab.com/laws/latest/offside/",
+    "scenario_type": "offside",
+    "text": "A player in an offside position is penalised only if, when the ball is played or touched by a teammate, the player becomes involved in active play. Involvement can mean playing or touching the ball, interfering with an opponent, challenging for the ball, blocking the opponent's line of vision, making an obvious action that affects the opponent, or gaining an advantage from a rebound, deflection or deliberate save."
+  },
+  {
+    "id": "law-11-no-offside",
+    "law": "Law 11",
+    "title": "No offside offence",
+    "url": "https://www.theifab.com/laws/latest/offside/",
+    "scenario_type": "offside",
+    "text": "There is no offside offence when a player receives the ball directly from a goal kick, a throw-in or a corner kick. If an offside offence occurs, the restart is an indirect free kick from where the offence occurred."
+  },
+  {
+    "id": "law-12-direct-free-kick",
+    "law": "Law 12",
+    "title": "Direct free-kick offences",
+    "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+    "scenario_type": "penalty",
+    "text": "A direct free kick is awarded if a player commits offences such as charging, jumping at, kicking, pushing, striking, tackling, tripping, holding, impeding with contact, biting, spitting, throwing an object at the ball or opponent, or deliberately handling the ball, depending on the offence and the referee's judgement."
+  },
+  {
+    "id": "law-12-penalty-area-foul",
+    "law": "Law 12",
+    "title": "Penalty for a direct free-kick offence",
+    "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+    "scenario_type": "penalty",
+    "text": "If a player commits a direct free-kick offence inside their own penalty area, a penalty kick is awarded. The location of the offence matters: a direct free-kick offence by a defender in their own penalty area becomes a penalty."
+  },
+  {
+    "id": "law-14-penalty-kick-procedure",
+    "law": "Law 14",
+    "title": "Penalty kick procedure",
+    "url": "https://www.theifab.com/laws/latest/the-penalty-kick/",
+    "scenario_type": "penalty",
+    "text": "For a penalty kick, the ball must be stationary on the penalty mark. The kicker must be clearly identified. The goalkeeper must remain on the goal line, facing the kicker and between the goalposts, until the ball is kicked. Other players must be outside the penalty area, behind the penalty mark and at least 9.15 metres from the mark."
+  },
+  {
+    "id": "law-15-throw-in-award",
+    "law": "Law 15",
+    "title": "Throw-in award",
+    "url": "https://www.theifab.com/laws/latest/the-throw-in/",
+    "scenario_type": "throw_in",
+    "text": "A throw-in is awarded to the opponents of the player who last touched the ball when the whole ball passes over the touchline, either on the ground or in the air. The throw-in is taken from the point where the ball left the field of play."
+  },
+  {
+    "id": "law-15-throw-in-procedure",
+    "law": "Law 15",
+    "title": "Throw-in procedure",
+    "url": "https://www.theifab.com/laws/latest/the-throw-in/",
+    "scenario_type": "throw_in",
+    "text": "At the moment of delivering the throw-in, the thrower must face the field of play, have part of each foot on the touchline or on the ground outside the touchline, and throw the ball with both hands from behind and over the head. Opponents must stand at least 2 metres from the point on the touchline where the throw is taken."
+  },
+  {
+    "id": "law-9-ball-out-of-play",
+    "law": "Law 9",
+    "title": "Ball out of play",
+    "url": "https://www.theifab.com/laws/latest/the-ball-in-and-out-of-play/",
+    "scenario_type": "throw_in",
+    "text": "The ball is out of play when it has wholly passed over the goal line or touchline on the ground or in the air, or when play has been stopped by the referee. Otherwise the ball remains in play."
+  },
+  {
+    "id": "law-12-disciplinary-action",
+    "law": "Law 12",
+    "title": "Cards and misconduct",
+    "url": "https://www.theifab.com/laws/latest/fouls-and-misconduct/",
+    "scenario_type": "general",
+    "text": "The referee can take disciplinary action from entering the field for pre-match inspection until leaving the field after the match. Yellow cards are cautions and red cards are sending-off offences. Discipline depends on the nature, timing and seriousness of the misconduct."
+  }
+]
